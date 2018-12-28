@@ -1,0 +1,36 @@
+Login Details
+
+Login ID    Username    Password
+0145        Avignesh    Root
+0126        Rkumar      Pass
+
+Customer Details
+
+Cust ID   Cust Name   Age     Mobile Number
+136       Arvind      20      8122601299
+145       Akaash      25      9784652130
+
+
+Bus Details
+
+Bus ID    Bus Name    Travel ID   Route ID
+B_123     Volvo S6      T_45      R_45
+B_167     Benz G6       T_85      R_60
+
+Booking Details
+
+Cust ID   Bus ID      Route ID    Amount    Travel ID     Qty
+136       B_123       R_45        1783      T_45            1
+
+Travel Details
+
+Travel ID   Travel Name   Number of buses   Owner
+T_45        ABC Travels     25                Varun
+T_85        XYZ Travels     30                  Tarun
+
+Route Details
+
+Route ID      Route                   Time    
+
+R_45          Chennai-Bangalore       6.30pm
+R_60          Chennai-Coimbatore       7.30am
